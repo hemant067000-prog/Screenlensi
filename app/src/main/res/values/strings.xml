@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScreenLens</string>
+    <string name="app_title_full">ScreenLens Background</string>
+    <string name="badge_zero_cloud">100% LOCAL • ZERO CLOUD API</string>
+    <string name="btn_activate_hud">Activate Off-Screen Translator (Auto-Float HUD)</string>
+    <string name="btn_deactivate_hud">Deactivate Floating HUD (Keep Background Engine)</string>
+    <string name="tab_viewport">Viewport &amp; ROI</string>
+    <string name="tab_inspector">OCR Inspector</string>
+    <string name="tab_glossary">Glossary &amp; Sandbox</string>
+    <string name="tab_transcript">Subtitle Feed</string>
+    <string name="preset_full_screen">Full Screen (All 48 Tiles)</string>
+    <string name="preset_subtitle_bar">Subtitle Bar (Bottom)</string>
+    <string name="preset_center_reader">Center Reader</string>
+    <string name="preset_top_banner">Top Banner</string>
+    <string name="label_translate_everything">Translate Everything On Screen (48-Tile Grid)</string>
+    <string name="label_test_offline_mode">Test Offline Mode (Block Outbound Calls)</string>
+    <string name="label_simulate_offscreen">Simulate Off-Screen / Tab Minimized</string>
+</resources>

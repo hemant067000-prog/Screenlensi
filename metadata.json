@@ -1,0 +1,6 @@
+{
+  "name": "ScreenLens",
+  "description": "100% offline, zero-cloud-API real-time Screen-to-English visual translator with unthrottled background scanning, 48-tile spatial diff engine, smart OCR preprocessor, 15+ language translator, and floating teleprompter HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
